@@ -196,7 +196,9 @@ class GoogleFastPairAdvertisementSetGenerator:IAdvertisementSetGenerator{
         "0503F0" to "LG HBS-1500",
         "0703F0" to "LG HBS-1120",
         "0803F0" to "LG HBS-1125",
-        "0903F0" to "LG HBS-2000"
+        "0903F0" to "LG HBS-2000",
+        "D90617" to "Redmi Buds 4 Active",
+        "E6E8B8" to "POCO Pods"
         )
 
     val serviceUuid = ParcelUuid(UUID.fromString("0000fe2c-0000-1000-8000-00805f9b34fb"))
